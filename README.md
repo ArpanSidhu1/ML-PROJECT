@@ -1,4 +1,4 @@
-# ML-PROJECT
+# ML-PROJECTS :- 
 The RealEstate Price Predictor is a powerful tool designed to assist homeowners, buyers, sellers, and real estate professionals in making informed decisions about property values. By harnessing advanced machine learning techniques, this project offers accurate predictions of house prices based on key attributes - Bedroom-Hall-Kitchen (BHK) configuration, bathroom count, total area, and price per square foot.
 
 Our sophisticated algorithm has been trained on a vast dataset of real estate transactions, encompassing diverse property types, locations, and market conditions. Whether you're planning to sell your home, buy a new property, or simply wish to stay updated on the ever-changing real estate market, the RealEstate Price Predictor provides you with real-time, reliable estimates of property values.
